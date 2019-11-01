@@ -1,0 +1,3 @@
+C:/Users/Ahmed/CLionProjects/Socket_Programming/cmake-build-debug/CMakeFiles/Socket_Programming.dir
+C:/Users/Ahmed/CLionProjects/Socket_Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/CLionProjects/Socket_Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
