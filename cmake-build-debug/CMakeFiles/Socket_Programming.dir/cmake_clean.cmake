@@ -1,11 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Socket_Programming.dir/main.cpp.obj"
-  "CMakeFiles/Socket_Programming.dir/Server_Side/server.cpp.obj"
-  "CMakeFiles/Socket_Programming.dir/Client_Side/client.cpp.obj"
+  "CMakeFiles/Socket_Programming.dir/Client_Side/MainC.cpp.o"
+  "CMakeFiles/Socket_Programming.dir/Client_Side/client.cpp.o"
+  "CMakeFiles/Socket_Programming.dir/Server_Side/MainS.cpp.o"
+  "CMakeFiles/Socket_Programming.dir/Server_Side/Server.cpp.o"
+  "CMakeFiles/Socket_Programming.dir/main.cpp.o"
+  "Socket_Programming"
   "Socket_Programming.pdb"
-  "Socket_Programming.exe"
-  "Socket_Programming.exe.manifest"
-  "libSocket_Programming.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

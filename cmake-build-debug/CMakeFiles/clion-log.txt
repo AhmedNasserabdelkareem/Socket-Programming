@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Ahmed\CLionProjects\Socket_Programming
+/snap/clion/92/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ahmednasser/CLionProjects/Socket-Programming
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Ahmed/CLionProjects/Socket_Programming/cmake-build-debug
+-- Build files have been written to: /home/ahmednasser/CLionProjects/Socket-Programming/cmake-build-debug

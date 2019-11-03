@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmednasser/CLionProjects/Socket-Programming/Client_Side/client.cpp
+client.h
+/home/ahmednasser/CLionProjects/Socket-Programming/Client_Side/client.h
+
+/home/ahmednasser/CLionProjects/Socket-Programming/Client_Side/client.h
+
+/home/ahmednasser/CLionProjects/Socket-Programming/Server_Side/server.cpp
+server.h
+/home/ahmednasser/CLionProjects/Socket-Programming/Server_Side/server.h
+
+/home/ahmednasser/CLionProjects/Socket-Programming/Server_Side/server.h
+
+/home/ahmednasser/CLionProjects/Socket-Programming/main.cpp
+iostream
+-
+
