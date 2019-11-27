@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmednasser/CLionProjects/untitled4/Client.cpp
+netinet/in.h
+-
+cstring
+-
+arpa/inet.h
+-
+vector
+-
+fstream
+-
+iostream
+-
+Client.h
+/home/ahmednasser/CLionProjects/untitled4/Client.h
+
+/home/ahmednasser/CLionProjects/untitled4/Client.h
+bits/basic_string.h
+-
+string
+-
+
+/home/ahmednasser/CLionProjects/untitled4/main.cpp
+iostream
+-
+Client.h
+/home/ahmednasser/CLionProjects/untitled4/Client.h
+
